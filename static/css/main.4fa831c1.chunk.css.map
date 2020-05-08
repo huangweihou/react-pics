@@ -1,0 +1,1 @@
+{"version":3,"sources":["ImageList.css"],"names":[],"mappings":"AAAA,YACE,YAAa,CACb,yDAA4D,CAC5D,eAAgB,CAChB,kBACF,CAEA,gBACE,WACF","file":"main.4fa831c1.chunk.css","sourcesContent":[".image-list {\n  display: grid;\n  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));\n  grid-gap: 0 10px;\n  grid-auto-rows: 1px;\n}\n\n.image-list img {\n  width: 250px;\n}\n"]}
